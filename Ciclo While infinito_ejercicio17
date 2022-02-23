@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <conio.h>
+
+int main(){
+	int x = 0;
+	while(x < 10) {
+		printf("\n¡No acabaré nunca!\n");
+	}
+        getch();
+	return 0;
+}
